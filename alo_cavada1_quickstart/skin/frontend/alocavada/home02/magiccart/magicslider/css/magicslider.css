@@ -1,0 +1,49 @@
+.magicslider{padding:0px;margin:0;}
+.bx-wrapper .bx-caption {display:none;}
+.bx-wrapper .bx-caption.start, .bx-wrapper .bx-caption.play {display:block;}
+.play .caption1 {position:absolute;top: 30%;z-index:30;font-size: 24px;font-weight:normal;-moz-animation: fadeInRight 0.8s ease-in 1.3s backwards;-webkit-animation: fadeInRight 0.8s ease-in 1s backwards;animation: fadeInRight 0.8s ease-in 1s backwards;opacity: 1;}
+.play .caption1:after{content: "";background-color: #ea8139;height: 3px;width: 70px; margin: 17px auto 0;display: block;}
+.play .caption2 {position:absolute;top:40%;z-index:40;letter-spacing: -5px;font-size: 100px;line-height: 85px;font-weight: bold;-moz-animation: fadeInLeft 0.8s ease-in 1.5s backwards;-webkit-animation: fadeInLeft 0.8s ease-in 1.5s backwards;animation: fadeInLeft 0.8s ease-in 1.5s backwards;opacity:1;}
+.play .caption3 {position:absolute;top:56%; z-index:50;-moz-animation: fadeInUp 0.8s ease-in 1.7s backwards;-webkit-animation: fadeInUp 0.8s ease-in 1.7s backwards;animation: fadeInUp 0.8s ease-in 1.7s backwards;opacity:1;}
+.play .caption3 span{font-size: 18px;line-height: 27px;font-weight: normal;}
+.play .caption3 .caption-1,.play .caption3 .caption-2{display: block;}
+.play .caption4 {-moz-animation: fadeInLeft 1s ease-in 2s backwards;-webkit-animation: fadeInLeft 1sease-in 2s backwards;animation: fadeInLeft 1 sease-in 2s backwards;position:absolute;bottom:115px; z-index:60;opacity:1;}
+.play .caption4 a{padding: 0 30px;line-height: 45px;border-width: 2px;border-style: solid;display: inline-block;color: #fff;font-size: 13px;text-transform: uppercase;font-weight: 600;}
+.play .caption1,.play .caption2,.play .caption3,.play .caption4{margin: 0;text-align: center;width: 100%;}
+.btn-shop {border: 2px solid #955251;color: #955251;display: inline-block;font-size: 17px;font-weight: 400;line-height: 45px;margin-top: 35px;padding: 0 40px;text-transform: uppercase;}
+.btn-shop:hover {color: #fff;background-color: #955251;}
+.play .text-slide3 .caption4 .btn-shop,
+.play .text-slide2 .caption4 .btn-shop{border: 2px solid #242628;color: #242628;}
+.play .text-slide3 .caption4 .btn-shop:hover,
+.play .text-slide2 .caption4 .btn-shop:hover{color: #fff;background-color: #242628;}
+.play .text-slide2 .caption1{color: #f1de0b;}
+.play .text-slide2 .caption2{top: 33%;}
+.play .text-slide2 .caption2:after{content: "";background-color: #cdcaca;height: 3px;width: 70px; margin: 28px auto 0;display: block;}
+.play .text-slide2 .caption3{top: 54%;}
+.play .text-slide2 .caption3 span{font-size: 24px;text-transform: uppercase;line-height: 40px;display: block;}
+.play .text-slide3 .caption1{color: #fff;}
+.play .text-slide3 .caption2{border-top: 3px solid #d0c8c3;border-bottom: 3px solid #d0c8c3;letter-spacing: -8px;width: 591px;margin: 0 auto;left: 0;right: 0; line-height: 100px;padding-bottom: 25px;top: 33%;}
+.play .text-slide3 .caption3 span{font-size: 24px;text-transform: uppercase;}
+.play .text-slide3 .caption3 span.sale-off{font-size: 100px;line-height: 100px;font-weight: bold;}
+.magicslider .bx-wrapper .bx-controls-direction a{top: 50%;}
+.magicslider .bx-controls-direction .bx-prev{left: 0;}
+.magicslider .bx-controls-direction .bx-prev, 
+.magicslider .bx-controls-direction .bx-next {width: 30px;height: 30px;line-height: 31px;text-align: center;-moz-transition: all 0.45s ease;-webkit-transition: all 0.45s ease;-o-transition: all 0.45s ease;-ms-transition: all 0.45s ease;transition: all 0.45s ease;position: absolute;visibility: hidden;opacity: 0;}
+.magicslider .bx-wrapper .bx-controls-direction a .fa{font-size: 20px;}
+.magicslider:hover .bx-wrapper .bx-controls-direction .bx-next{right: 0;visibility: inherit;opacity: 1;}
+.magicslider:hover .bx-wrapper .bx-controls-direction .bx-prev{left: 0;visibility: inherit;opacity: 1;}
+.magicslider .bx-wrapper .bx-pager{bottom: 20px;text-align: center;width: 100%;border: 0 none;}
+.magicslider .bx-wrapper .bx-pager .bx-pager-item:first-child::before,.magicslider .bx-wrapper .bx-pager .bx-pager-item:last-child::after{display: none;}
+.magicslider .bx-wrapper .bx-pager .bx-pager-item {padding: 0 2px;background-color: transparent;}
+.magicslider .bx-wrapper .bx-pager.bx-default-pager a{border-width: 2px;border-style: solid;width: 14px;height: 14px;}
+
+@media(min-width:1920px) {
+	.play .caption1{top:33%;}
+	.play .caption3{top: 53%;}
+	.play .caption4{bottom: 240px;}
+	.play .text-slide2 .caption2{top:37%;}
+	.play .text-slide2 .caption3{top: 52%;}
+	.play .text-slide3 .caption2{top: 35%;}
+	.play .text-slide3 .caption3{top: 51%;}
+	.play .text-slide3 .caption4 {bottom: 275px;}
+}

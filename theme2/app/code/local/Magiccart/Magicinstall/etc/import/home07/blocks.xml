@@ -1,0 +1,277 @@
+<?xml version="1.0"?>
+<root>
+  <blocks>
+    <cms_block>
+      <title><![CDATA[block_footer_bottom]]></title>
+      <identifier><![CDATA[block_footer_bottom]]></identifier>
+      <content><![CDATA[<div class="block-footer-bottom">
+    <div class="footer-inner">
+		<div class="container">
+			<div class="footer">
+				<div class="row">
+				    <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12 col-mobile-12">
+						<div class="collapsible mobile-collapsible">
+						<h3 class="block-title heading">Account</h3>
+						<span class="toggle-tab mobile" style="display: none;"><span class="hidden">hidden</span></span>
+							<div class="block-content block-content-statick toggle-content">
+								<ul class="bullet">
+									<li><a href="#">About us</a></li>
+									<li><a href="#">My order history</a></li>
+									<li><a href="#">Advanced search</a></li>
+									<li><a href="#">Personal information</a></li>
+									<li><a href="#">My vouchers</a></li>
+								</ul>
+							</div>
+						</div>
+					</div>
+					<div class="col-lg-3 col-md-3 col-sm-3 col-xs-12 col-mobile-12">
+						<div class="collapsible mobile-collapsible">
+						<h3 class="block-title heading">Information</h3>
+						<span class="toggle-tab mobile" style="display: none;"><span class="hidden">hidden</span></span>
+							<div class="block-content block-content-statick toggle-content">
+								<ul class="bullet">
+									<li><a href="#">Home page</a></li>
+									<li><a href="#">Careers</a></li>
+									<li><a href="#">Shipping</a></li>
+									<li><a href="#">Gift cards</a></li>
+									<li><a href="#">Contact us</a></li>
+								</ul>
+							</div>
+						</div>
+					</div>
+					<div class="col-lg-3 col-md-3 col-sm-3 col-xs-12 col-mobile-12">
+						<div class="collapsible mobile-collapsible">
+						<h3 class="block-title heading">Support</h3>
+						<span class="toggle-tab mobile" style="display: none;"><span class="hidden">hidden</span></span>
+							<div class="block-content block-content-statick toggle-content">
+								<ul class="bullet">
+									<li><a href="#">Address store</a></li>
+									<li><a href="#">Customer services</a></li>
+									<li><a href="#">Online store</a></li>
+									<li><a href="#">Returns</a></li>
+									<li><a href="#">Guarantee</a></li>
+								</ul>
+							</div>
+						</div>
+					</div>
+					<div class="col-lg-3 col-md-3 col-sm-3 col-xs-12 col-mobile-12">
+						<div class="collapsible mobile-collapsible">
+							<h3 class="block-title heading">newsletter</h3>
+							<span class="toggle-tab mobile" style="display: none;"><span class="hidden">hidden</span></span>
+							<div class="block-static block_newletter toggle-content">
+								{{block type="newsletter/subscribe" template="newsletter/subscribe.phtml"}}
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>]]></content>
+      <is_active><![CDATA[1]]></is_active>
+    </cms_block>
+    <cms_block>
+      <title><![CDATA[social]]></title>
+      <identifier><![CDATA[social]]></identifier>
+      <content><![CDATA[<div class="social-link clearfix">
+	<a href="#" class="facebook" title="Facebook"><i class="fa fa-facebook"><span class="hidden">hidden</span></i></a>
+	<a href="#" class="twitter" title="Twitter"><i class="fa fa-twitter"><span class="hidden">hidden</span></i></a>
+	<a href="#" class="google-plus" title="Google plus"><i class="fa fa-google-plus"><span class="hidden">hidden</span></i></a>
+	<a href="#" class="instagram" title="instagram"><i class="fa fa-instagram"><span class="hidden">hidden</span></i></a>
+	<a href="#" class="rss" title="Rss"><i class="fa fa-rss"><span class="hidden">hidden</span></i>
+	</a> 
+</div>]]></content>
+      <is_active><![CDATA[1]]></is_active>
+    </cms_block>
+    <cms_block>
+      <title><![CDATA[Hotline]]></title>
+      <identifier><![CDATA[hotline]]></identifier>
+      <content><![CDATA[<div class="nav-top-hotline">
+    <p>Any Question?</p>
+	<span class="first-item"><span class="fa fa-phone-square"><span class="hidden">hidden</span></span>+001222456</span>
+</div>]]></content>
+      <is_active><![CDATA[1]]></is_active>
+    </cms_block>
+    <cms_block>
+      <title><![CDATA[Paypal]]></title>
+      <identifier><![CDATA[paypal]]></identifier>
+      <content><![CDATA[<div class="paypal"><img class="img-responsive" src="{{media url="wysiwyg/alothemes/static/paypal.png"}}" alt="" /></div>]]></content>
+      <is_active><![CDATA[1]]></is_active>
+    </cms_block>
+    <cms_block>
+      <title><![CDATA[block_footer_bottom]]></title>
+      <identifier><![CDATA[block_footer_bottom]]></identifier>
+      <content><![CDATA[<div class="container">
+    <div class="block-footer-bottom">
+		<div class="footer-inner">
+			<div class="footer">
+				<div class="row">
+				    <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12 col-mobile-12">
+						<div class="collapsible mobile-collapsible">
+							<h3 class="block-title heading">Contacts Us</h3>
+							<span class="toggle-tab mobile" style="display: none;"><span class="hidden">hidden</span></span>
+							<div class="toggle-content">
+								<div class="block1 block-content-statick">
+									<ul class="address-list">
+										<li class="feature-icon first">
+											<p class="icon"><span class="fa fa-map-marker"><span class="hidden">hidden</span></span></p>
+											<p><span class="tit-name">Address:</span><span class="tit-contain">1504, South Thamtons way,California City, USA.</span></p>
+										</li>
+										<li class="feature-icon">
+											<p class="icon"><span class="fa fa-phone"><span class="hidden">hidden</span></span></p>
+											<p><span class="tit-name">Phone:</span><span class="tit-contain">+001 222 456</span></p>
+										</li>
+										<li class="feature-icon">
+											<p class="icon"><span class="fa fa-envelope"><span class="hidden">hidden</span></span></p>
+											<p><span class="tit-name">Email:</span><span class="tit-contain">support@alothemes.com</span></p>
+										</li>
+										<li class="feature-icon">
+											<p class="icon"><span class="fa fa-clock-o"><span class="hidden">hidden</span></span></p>
+											<p><span class="tit-name">Working:</span><span class="tit-contain">8h30 - 20h30, everyday</span></p>
+										</li>
+									</ul>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="col-lg-3 col-md-3 col-sm-6 col-xs-12 col-mobile-12">
+						<div class="collapsible mobile-collapsible">
+						<h3 class="block-title heading">Information</h3>
+						<span class="toggle-tab mobile" style="display: none;"><span class="hidden">hidden</span></span>
+							<div class="block-content block-content-statick toggle-content">
+								<ul class="bullet">
+									<li><a href="#">Return exchage</a></li>
+									<li><a href="#">Term & conditions</a></li>
+									<li><a href="#">Size guide</a></li>
+									<li><a href="#">Search terms</a></li>
+									<li><a href="#">Privacy policy</a></li>
+								</ul>
+							</div>
+						</div>
+					</div>
+				    <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12 col-mobile-12">
+						<div class="collapsible mobile-collapsible">
+						<h3 class="block-title heading">My Account</h3>
+						<span class="toggle-tab mobile" style="display: none;"><span class="hidden">hidden</span></span>
+							<div class="block-content block-content-statick toggle-content">
+								<ul class="bullet">
+									<li><a href="#">About us</a></li>
+									<li><a href="#">My order history</a></li>
+									<li><a href="#">Advanced search</a></li>
+									<li><a href="#">Personal information</a></li>
+									<li><a href="#">My vouchers</a></li>
+								</ul>
+							</div>
+						</div>
+					</div>
+					<div class="col-lg-3 col-md-3 col-sm-6 col-xs-12 col-mobile-12">
+						<div class="collapsible mobile-collapsible">
+							<h3 class="block-title heading">subscribe</h3>
+							<span class="toggle-tab mobile" style="display: none;"><span class="hidden">hidden</span></span>
+							<div class="block-static block_newletter toggle-content">
+								{{block type="newsletter/subscribe" template="newsletter/subscribe.phtml"}}
+                                                        <div class="social-link clearfix">
+								<a href="#" class="facebook" title="Facebook"><i class="fa fa-facebook"><span class="hidden">hidden</span></i></a>
+								<a href="#" class="twitter" title="Twitter"><i class="fa fa-twitter"><span class="hidden">hidden</span></i></a>
+								<a href="#" class="google-plus" title="Google plus"><i class="fa fa-google-plus"><span class="hidden">hidden</span></i></a>
+								<a href="#" class="instagram" title="instagram"><i class="fa fa-instagram"><span class="hidden">hidden</span></i></a>
+								<a href="#" class="rss" title="Rss"><i class="fa fa-rss"><span class="hidden">hidden</span></i>
+								</a> 
+							</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>]]></content>
+      <is_active><![CDATA[1]]></is_active>
+    </cms_block>
+    <cms_block>
+      <title><![CDATA[Newletter Text Popup]]></title>
+      <identifier><![CDATA[newletter_text]]></identifier>
+      <content><![CDATA[<div class="form-subscribe-header block-title">
+	<label>Sign up for newsletter</label>
+</div>
+<h2 class="promotions promotions1">Curabitur lacus turpis, auctor et ipsum a, finibus rutrum nibh,</h2>
+<h2 class="promotions promotions2">donec odio dolor, sollicitudin varius ultricies eget.</h2>]]></content>
+      <is_active><![CDATA[1]]></is_active>
+    </cms_block>
+    <cms_block>
+      <title><![CDATA[Newletter Social Popup]]></title>
+      <identifier><![CDATA[newletter_social]]></identifier>
+      <content><![CDATA[<div class="social-link clearfix">
+	<a href="#" class="facebook" title="Facebook"><i class="fa fa-facebook"><span class="hidden">hidden</span></i></a>
+	<a href="#" class="twitter" title="Twitter"><i class="fa fa-twitter"><span class="hidden">hidden</span></i></a>
+	<a href="#" class="vimeo" title="vimeo"><i class="fa fa-vimeo-square"><span class="hidden">hidden</span></i></a>
+	<a href="#" class="google-plus" title="Google plus"><i class="fa fa-google-plus"><span class="hidden">hidden</span></i></a>
+	<a href="#" class="instagram" title="instagram"><i class="fa fa-instagram"><span class="hidden">hidden</span></i></a>
+	<a href="#" class="rss" title="Rss"><i class="fa fa-rss"><span class="hidden">hidden</span></i>
+	</a> 
+</div>]]></content>
+      <is_active><![CDATA[1]]></is_active>
+    </cms_block>
+    <cms_block>
+      <title><![CDATA[Banner Left Category]]></title>
+      <identifier><![CDATA[left-module-bottom]]></identifier>
+      <content><![CDATA[<div class="left-image"><img src="{{media url="wysiwyg/alothemes/static/home7/banner-block.jpg"}}" alt="" /></div>]]></content>
+      <is_active><![CDATA[1]]></is_active>
+    </cms_block>
+    <cms_block>
+      <title><![CDATA[Block Featured Menu]]></title>
+      <identifier><![CDATA[featured]]></identifier>
+      <content><![CDATA[<div class="content-mega">
+	<div class="content-mega-custom">
+	    <div class="container-full">
+			<ul class="mage-column cat-mega">
+				<li class="children level1">
+				   <a href="#"><span>Products</span></a>
+				   <ul class="level1">
+                        <li class="level2"><a href="simple-product.html"><span>Simple Product</span></a></li>
+						<li class="level2"><a href="grouped-product.html"><span>Grouped Product</span></a></li>
+						<li class="level2"><a href="configurable-product.html"><span>Configurable Product</span></a></li>
+				  </ul>
+				</li>
+				<li class="children level1 last">
+				   <a href="#"><span>Pages</span></a>
+				   <ul class="level1">
+                        <li class="level2"><a href="{{store url=""}}contacts/">Contact Us</a></li>
+						<li class="level2"><a href="{{store direct_url="about-magento-demo-store"}}"><span>About us</span></a></li>
+						<li class="level2"><a href="404.phtml"><span>404(error) page</span></a></li>
+						<li class="level2"><a href="{{store direct_url="faq"}}"><span>FAQ’s Page</span></a></li>
+						<li class="level2"><a href="{{store direct_url="enable-cookies"}}"><span>Enable Cookies</span></a></li>
+				  </ul>
+				</li>
+			</ul>
+		</div>
+	</div>
+</div>]]></content>
+      <is_active><![CDATA[1]]></is_active>
+    </cms_block>
+    <cms_block>
+      <title><![CDATA[block_map_contacts]]></title>
+      <identifier><![CDATA[block_map_contacts]]></identifier>
+      <content><![CDATA[<div class="col-xs-12 col-sm-12 col-md-12">
+<div class="conttact-top clearfix">
+<div><iframe style="border: 0;" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2482.8277911385558!2d-0.13108129999999998!3d51.51637529999999!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48761b2d183f5ea3%3A0x8e1c5b00f1b16579!2zMTIgT3hmb3JkIFN0LCBTb2hvLCBMb25kb24gVzFELCBWxrDGoW5nIFF14buRYyBBbmg!5e0!3m2!1svi!2s!4v1434261501432" height="350" width="600"></iframe></div>
+<div class="map-conttact">
+    <h3 class="page-subheading">Information</h3>
+<div class="Information-text">
+	<p>Proin accumsan porta miac maximus. In dapibus mollis risus, nec mattis sem gravida at. Aliquam erat volutpat. Donec pellentes tristque. Vivamus semper non semor
+felis leo sodales tincidunt at ut lectus, aliquam malesuada urna vel sagittis ullamcorper. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy
+dolore magna aliquyam erat, sed diam voluptua. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet Nulla facilisi. Fusce luctus purus
+semper nulla tempus. Etiam ac hendrerit lacus, nec dapibus enim. </p>
+	<ul class="store_info">
+		<li class="add"><i class="fa fa-home"></i>Our business address is 1063 Freelon Street San Francisco, CA 95108</li>
+		<li><i class="fa fa-phone"></i><span class="name">Phone:</span><span>+ 021.343.7575</span></li>
+		<li><i class="fa fa-envelope"></i><span class="name">Email:</span> <span><a href="mailto:support@alothemes.com">support@alothemes.com</a></span></li>
+	</ul> 
+</div>
+</div>
+</div>	
+</div>]]></content>
+      <is_active><![CDATA[1]]></is_active>
+    </cms_block>
+  </blocks>
+</root>

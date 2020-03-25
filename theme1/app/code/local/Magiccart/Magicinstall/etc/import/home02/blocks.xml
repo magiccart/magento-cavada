@@ -1,0 +1,238 @@
+<?xml version="1.0"?>
+<root>
+  <blocks>
+    <cms_block>
+      <title><![CDATA[newletter_social]]></title>
+      <identifier><![CDATA[newletter_social]]></identifier>
+      <content><![CDATA[<div class="social-link clearfix">
+	<a href="#" class="facebook" title="Facebook"><i class="fa fa-facebook"><span class="hidden">hidden</span></i></a>
+	<a href="#" class="twitter" title="Twitter"><i class="fa fa-twitter"><span class="hidden">hidden</span></i></a>
+	<a href="#" class="vimeo" title="vimeo"><i class="fa fa-vimeo-square"><span class="hidden">hidden</span></i></a>
+	<a href="#" class="google-plus" title="Google plus"><i class="fa fa-google-plus"><span class="hidden">hidden</span></i></a>
+	<a href="#" class="instagram" title="instagram"><i class="fa fa-instagram"><span class="hidden">hidden</span></i></a>
+	<a href="#" class="rss" title="Rss"><i class="fa fa-rss"><span class="hidden">hidden</span></i>
+	</a> 
+</div>]]></content>
+      <is_active><![CDATA[1]]></is_active>
+    </cms_block>
+    <cms_block>
+      <title><![CDATA[newletter_text]]></title>
+      <identifier><![CDATA[newletter_text]]></identifier>
+      <content><![CDATA[<div class="form-subscribe-header block-title">
+	<label>Sign up for newsletter</label>
+</div>
+<h2 class="promotions promotions1">Curabitur lacus turpis, auctor et ipsum a, finibus rutrum nibh,</h2>
+<h2 class="promotions promotions2">donec odio dolor, sollicitudin varius ultricies eget.</h2>]]></content>
+      <is_active><![CDATA[1]]></is_active>
+    </cms_block>
+    <cms_block>
+      <title><![CDATA[block_map_contacts]]></title>
+      <identifier><![CDATA[block_map_contacts]]></identifier>
+      <content><![CDATA[<div class="col-xs-12 col-sm-12 col-md-12">
+<div class="conttact-top clearfix">
+<div><iframe style="border: 0;" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2482.8277911385558!2d-0.13108129999999998!3d51.51637529999999!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48761b2d183f5ea3%3A0x8e1c5b00f1b16579!2zMTIgT3hmb3JkIFN0LCBTb2hvLCBMb25kb24gVzFELCBWxrDGoW5nIFF14buRYyBBbmg!5e0!3m2!1svi!2s!4v1434261501432" height="350" width="600"></iframe></div>
+<div class="map-conttact">
+    <h3 class="page-subheading">Information</h3>
+<div class="Information-text">
+	<p>Proin accumsan porta miac maximus. In dapibus mollis risus, nec mattis sem gravida at. Aliquam erat volutpat. Donec pellentes tristque. Vivamus semper non semor
+felis leo sodales tincidunt at ut lectus, aliquam malesuada urna vel sagittis ullamcorper. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy
+dolore magna aliquyam erat, sed diam voluptua. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet Nulla facilisi. Fusce luctus purus
+semper nulla tempus. Etiam ac hendrerit lacus, nec dapibus enim. </p>
+	<ul class="store_info">
+		<li class="add"><i class="fa fa-home"></i>Our business address is 1063 Freelon Street San Francisco, CA 95108</li>
+		<li><i class="fa fa-phone"></i><span class="name">Phone:</span><span>+ 021.343.7575</span></li>
+		<li><i class="fa fa-envelope"></i><span class="name">Email:</span> <span><a href="mailto:support@alothemes.com">support@alothemes.com</a></span></li>
+	</ul> 
+</div>
+</div>
+</div>	
+</div>]]></content>
+      <is_active><![CDATA[1]]></is_active>
+    </cms_block>
+    <cms_block>
+      <title><![CDATA[postcomments]]></title>
+      <identifier><![CDATA[postcomments]]></identifier>
+      <content><![CDATA[<div class="blog-postcomments">
+	<div class="blog_heading headding_one">
+		<h1>h1. Demo Heading One</h1>
+		<p>Proin accumsan porta miac maximus. In dapibus mollis risus, nec mattis sem gravida at. Aliquam erat volutpat. Donec pellentes tristique. Vivamus semper mi non semper vulputate. Aliquam vita
+	felis leo sodales tincidunt at ut lectus, aliquam malesuada urna vel sagittis ullamcorper. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt et
+	dolore magna aliquyam erat, sed diam voluptua. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</p>
+	<p>Aliquam erat volutpat. Donec pellentes tristique. Vivamus semper mi non semper vulputate. Aliquam vita Proin accumsan porta miac maximus. In dapibus mollis risus, nec mattis sem gravida at. 
+	felis leo sodales tincidunt at ut lectus, aliquam malesuada urna vel sagittis ullamcorper. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt et
+	dolore magna aliquyam erat, sed diam voluptua. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</p>
+	</div>
+	<div class="blog_heading headding_two">
+		<h2>h2. Demo Heading Two</h2>
+		<p>Proin accumsan porta miac maximus. In dapibus mollis risus, nec mattis sem gravida at. Aliquam erat volutpat. Donec pellentes tristique. Vivamus semper mi non semper vulputate. Aliquam vita
+	felis leo sodales tincidunt at ut lectus, aliquam malesuada urna vel sagittis ullamcorper. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt et
+	dolore magna aliquyam erat, sed diam voluptua. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet Nulla facilisi. Fusce luctus purus nec lorem mollis, eget
+	semper nulla tempus. Etiam ac hendrerit lacus, nec dapibus enim. Pellentesque eu urna vitae lectus congue convallis. Sed id molestie mi. Nunc vel facilisis nisl. Cras aliquam gravida dignissim.
+	Phasellus elementum ut urna et dignissim</p>
+	</div>
+	<div class="blog_heading headding_three">
+		<h3>h3. Demo Heading Three</h3>
+		<p>Aliquam erat volutpat. Donec pellentes tristique. Vivamus semper mi non semper vulputate. Aliquam vita Proin accumsan porta miac maximus. In dapibus mollis risus, nec mattis sem gravida at. 
+	felis leo sodales tincidunt at ut lectus, aliquam malesuada urna vel sagittis ullamcorper. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt et
+	dolore magna aliquyam erat, sed diam voluptua. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</p>
+	</div>
+	<div class="social-link clearfix">
+		<a href="#" class="facebook" title="Facebook"><i class="fa fa-facebook"><span class="hidden">hidden</span></i></a>
+		<a href="#" class="twitter" title="Twitter"><i class="fa fa-twitter"><span class="hidden">hidden</span></i></a>
+		<a href="#" class="google-plus" title="Google plus"><i class="fa fa-google-plus"><span class="hidden">hidden</span></i></a>
+		<a href="#" class="instagram" title="instagram"><i class="fa fa-instagram"><span class="hidden">hidden</span></i></a>
+		<a href="#" class="rss" title="Rss"><i class="fa fa-rss"><span class="hidden">hidden</span></i>
+		</a> 
+	</div>
+</div>]]></content>
+      <is_active><![CDATA[1]]></is_active>
+    </cms_block>
+    <cms_block>
+      <title><![CDATA[Slide Home Shoes]]></title>
+      <identifier><![CDATA[slide]]></identifier>
+      <content><![CDATA[<div>{{widget type="magicslider/widget_slide" identifier="slide_2" template="magiccart/magicslider/magicslider.phtml"}}</div>]]></content>
+      <is_active><![CDATA[1]]></is_active>
+    </cms_block>
+    <cms_block>
+      <title><![CDATA[block_footer_bottom]]></title>
+      <identifier><![CDATA[block_footer_bottom]]></identifier>
+      <content><![CDATA[<div class="block-footer-bottom">
+	<div class="footer-primary-bottom">
+	    <div class="container">
+			<div class="footer">
+				<img class="img-responsive" src="{{media url="wysiwyg/alothemes/static/logo.png"}}" alt="" />
+				<div class="links collapsible mobile-collapsibl">
+					<ul class="toggle-content-none">
+						<li class="first"><a href="{{store direct_url="catalog/seo_sitemap/category/"}}">Site Map</a></li>
+						 <li><a href="{{store direct_url="catalogsearch/advanced"}}">Advanced Search</a></li>
+						<li><a href="{{store direct_url="catalogsearch/term/popular/"}}">Search Terms</a></li>
+						<li><a href="{{store direct_url="sales/guest/form"}}">Orders and Returns</a></li>
+						<li class="last"><a href="{{store url=""}}contacts/">Contact Us</a></li>
+					</ul>
+				</div>
+		    </div>
+        </div>		
+	</div>
+</div>]]></content>
+      <is_active><![CDATA[1]]></is_active>
+    </cms_block>
+    <cms_block>
+      <title><![CDATA[social]]></title>
+      <identifier><![CDATA[social]]></identifier>
+      <content><![CDATA[<div class="social-link clearfix">
+       <span class="toggle-tab mobile" style="display: none;"><i class="fa fa-futbol-o"><span class="hidden">hidden</span></i></span>
+       <div class="toggle-content">
+	<a href="#" class="facebook" title="Facebook"><i class="fa fa-facebook"><span class="hidden">hidden</span></i></a>
+	<a href="#" class="twitter" title="Twitter"><i class="fa fa-twitter"><span class="hidden">hidden</span></i></a>
+	<a href="#" class="google-plus" title="Google plus"><i class="fa fa-google-plus"><span class="hidden">hidden</span></i></a>
+	<a href="#" class="instagram" title="instagram"><i class="fa fa-instagram"><span class="hidden">hidden</span></i></a>
+	<a href="#" class="rss" title="Rss"><i class="fa fa-rss"><span class="hidden">hidden</span></i>
+	</a> 
+    </div>
+</div>]]></content>
+      <is_active><![CDATA[1]]></is_active>
+    </cms_block>
+    <cms_block>
+      <title><![CDATA[newsletter]]></title>
+      <identifier><![CDATA[newsletter]]></identifier>
+      <content><![CDATA[ <div class="collapsible mobile-collapsible">
+	<div class="block-static block_newletter">
+		{{block type="newsletter/subscribe" template="newsletter/subscribe.phtml"}}
+	</div>
+</div>]]></content>
+      <is_active><![CDATA[1]]></is_active>
+    </cms_block>
+    <cms_block>
+      <title><![CDATA[Custom Menu top Home Shoes For Women]]></title>
+      <identifier><![CDATA[custom-menu-top-home-shoes-for-women]]></identifier>
+      <content><![CDATA[<div class="top-inner">
+	<div class="container">
+		<div class="row">
+			<div class="col-lg-3 col-md-3 col-sm-3 col-xs-12">
+			    <div class="custom-menu">
+				    <img class="img-responsive" src="{{media url="wysiwyg/alothemes/static/home2/menuwomen1.jpg"}}" alt="" />
+				    <div class="custom-menu-text">
+						<h2>Sexy Tops</h2>
+					</div>
+				</div>
+			</div>
+			<div class="col-lg-3 col-md-3 col-sm-3 col-xs-12">
+			    <div class="custom-menu">
+				    <img class="img-responsive" src="{{media url="wysiwyg/alothemes/static/home2/menuwomen2.jpg"}}" alt="" />
+				    <div class="custom-menu-text">
+						<h2>Sunglasses Model</h2>
+					</div>
+				</div>
+			</div>
+			<div class="col-lg-3 col-md-3 col-sm-3 col-xs-12">
+			    <div class="custom-menu">
+				    <img class="img-responsive" src="{{media url="wysiwyg/alothemes/static/home2/menuwomen3.jpg"}}" alt="" />
+				    <div class="custom-menu-text">
+						<h2>Leather Jackets</h2>
+					</div>
+				</div>
+			</div>
+			<div class="col-lg-3 col-md-3 col-sm-3 col-xs-12">
+			    <div class="custom-menu">
+				    <img class="img-responsive" src="{{media url="wysiwyg/alothemes/static/home2/menuwomen4.jpg"}}" alt="" />
+				    <div class="custom-menu-text">
+						<h2>Style Stronger</h2>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>	]]></content>
+      <is_active><![CDATA[1]]></is_active>
+    </cms_block>
+    <cms_block>
+      <title><![CDATA[Custom Menu top Home Shoes For Men]]></title>
+      <identifier><![CDATA[custom-menu-top-home-shoes-for-men]]></identifier>
+      <content><![CDATA[<div class="top-inner">
+	<div class="container">
+		<div class="row">
+			<div class="col-lg-3 col-md-3 col-sm-3 col-xs-12">
+			    <div class="custom-menu">
+				    <img class="img-responsive" src="{{media url="wysiwyg/alothemes/static/home2/menumen1.jpg"}}" alt="" />
+				    <div class="custom-menu-text">
+						<h2>Vest Polite</h2>
+					</div>
+				</div>
+			</div>
+			<div class="col-lg-3 col-md-3 col-sm-3 col-xs-12">
+			    <div class="custom-menu">
+				    <img class="img-responsive" src="{{media url="wysiwyg/alothemes/static/home2/menumen2.jpg"}}" alt="" />
+				    <div class="custom-menu-text">
+						<h2>Style Model</h2>
+					</div>
+				</div>
+			</div>
+			<div class="col-lg-3 col-md-3 col-sm-3 col-xs-12">
+			    <div class="custom-menu">
+				    <img class="img-responsive" src="{{media url="wysiwyg/alothemes/static/home2/menumen3.jpg"}}" alt="" />
+				    <div class="custom-menu-text">
+						<h2>Best Comple</h2>
+					</div>
+				</div>
+			</div>
+			<div class="col-lg-3 col-md-3 col-sm-3 col-xs-12">
+			    <div class="custom-menu">
+				    <img class="img-responsive" src="{{media url="wysiwyg/alothemes/static/home2/menumen4.jpg"}}" alt="" />
+				    <div class="custom-menu-text">
+						<h2>Style Dusting</h2>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>	]]></content>
+      <is_active><![CDATA[1]]></is_active>
+    </cms_block>
+    <cms_block>
+      <title><![CDATA[Banner Left Category]]></title>
+      <identifier><![CDATA[left-module-bottom]]></identifier>
+      <content><![CDATA[<div class="left-image"><img src="{{media url="wysiwyg/alothemes/static/home2/banner-left-category.jpg"}}" alt="" /></div>]]></content>
+      <is_active><![CDATA[1]]></is_active>
+    </cms_block>
+  </blocks>
+</root>

@@ -1,0 +1,105 @@
+<?xml version="1.0"?>
+<root>
+  <blocks>
+    <cms_block>
+      <title><![CDATA[Newletter Text Popup]]></title>
+      <identifier><![CDATA[newletter_text]]></identifier>
+      <content><![CDATA[<div class="form-subscribe-header block-title">
+	<label>Sign up for newsletter</label>
+</div>
+<h2 class="promotions promotions1">Curabitur lacus turpis, auctor et ipsum a, finibus rutrum nibh,</h2>
+<h2 class="promotions promotions2">donec odio dolor, sollicitudin varius ultricies eget.</h2>]]></content>
+      <is_active><![CDATA[1]]></is_active>
+    </cms_block>
+    <cms_block>
+      <title><![CDATA[Newletter Social Popup]]></title>
+      <identifier><![CDATA[newletter_social]]></identifier>
+      <content><![CDATA[<div class="social-link clearfix">
+	<a href="#" class="facebook" title="Facebook"><i class="fa fa-facebook"><span class="hidden">hidden</span></i></a>
+	<a href="#" class="twitter" title="Twitter"><i class="fa fa-twitter"><span class="hidden">hidden</span></i></a>
+	<a href="#" class="vimeo" title="vimeo"><i class="fa fa-vimeo-square"><span class="hidden">hidden</span></i></a>
+	<a href="#" class="google-plus" title="Google plus"><i class="fa fa-google-plus"><span class="hidden">hidden</span></i></a>
+	<a href="#" class="instagram" title="instagram"><i class="fa fa-instagram"><span class="hidden">hidden</span></i></a>
+	<a href="#" class="rss" title="Rss"><i class="fa fa-rss"><span class="hidden">hidden</span></i>
+	</a> 
+</div>]]></content>
+      <is_active><![CDATA[1]]></is_active>
+    </cms_block>
+    <cms_block>
+      <title><![CDATA[Block Featured Menu]]></title>
+      <identifier><![CDATA[featured]]></identifier>
+      <content><![CDATA[<div class="content-mega">
+	<div class="content-mega-custom">
+	    <div class="container-full">
+			<ul class="mage-column cat-mega">
+				<li class="children level1">
+				   <a href="#"><span>Products</span></a>
+				   <ul class="level1">
+                        <li class="level2"><a href="simple-product.html"><span>Simple Product</span></a></li>
+						<li class="level2"><a href="grouped-product.html"><span>Grouped Product</span></a></li>
+						<li class="level2"><a href="configurable-product.html"><span>Configurable Product</span></a></li>
+				  </ul>
+				</li>
+				<li class="children level1 last">
+				   <a href="#"><span>Pages</span></a>
+				   <ul class="level1">
+                        <li class="level2"><a href="{{store url=""}}contacts/">Contact Us</a></li>
+						<li class="level2"><a href="{{store direct_url="about-magento-demo-store"}}"><span>About us</span></a></li>
+						<li class="level2"><a href="404.phtml"><span>404(error) page</span></a></li>
+						<li class="level2"><a href="{{store direct_url="faq"}}"><span>FAQ’s Page</span></a></li>
+						<li class="level2"><a href="{{store direct_url="enable-cookies"}}"><span>Enable Cookies</span></a></li>
+				  </ul>
+				</li>
+			</ul>
+		</div>
+	</div>
+</div>]]></content>
+      <is_active><![CDATA[1]]></is_active>
+    </cms_block>
+    <cms_block>
+      <title><![CDATA[block_map_contacts]]></title>
+      <identifier><![CDATA[block_map_contacts]]></identifier>
+      <content><![CDATA[<div class="col-xs-12 col-sm-12 col-md-12">
+<div class="conttact-top clearfix">
+<div><iframe style="border: 0;" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2482.8277911385558!2d-0.13108129999999998!3d51.51637529999999!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48761b2d183f5ea3%3A0x8e1c5b00f1b16579!2zMTIgT3hmb3JkIFN0LCBTb2hvLCBMb25kb24gVzFELCBWxrDGoW5nIFF14buRYyBBbmg!5e0!3m2!1svi!2s!4v1434261501432" height="350" width="600"></iframe></div>
+<div class="map-conttact">
+    <h3 class="page-subheading">Information</h3>
+<div class="Information-text">
+	<p>Proin accumsan porta miac maximus. In dapibus mollis risus, nec mattis sem gravida at. Aliquam erat volutpat. Donec pellentes tristque. Vivamus semper non semor
+felis leo sodales tincidunt at ut lectus, aliquam malesuada urna vel sagittis ullamcorper. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy
+dolore magna aliquyam erat, sed diam voluptua. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet Nulla facilisi. Fusce luctus purus
+semper nulla tempus. Etiam ac hendrerit lacus, nec dapibus enim. </p>
+	<ul class="store_info">
+		<li class="add"><i class="fa fa-home"></i>Our business address is 1063 Freelon Street San Francisco, CA 95108</li>
+		<li><i class="fa fa-phone"></i><span class="name">Phone:</span><span>+ 021.343.7575</span></li>
+		<li><i class="fa fa-envelope"></i><span class="name">Email:</span> <span><a href="mailto:support@alothemes.com">support@alothemes.com</a></span></li>
+	</ul> 
+</div>
+</div>
+</div>	
+</div>]]></content>
+      <is_active><![CDATA[1]]></is_active>
+    </cms_block>
+    <cms_block>
+      <title><![CDATA[block_footer_bottom]]></title>
+      <identifier><![CDATA[block_footer_bottom]]></identifier>
+      <content><![CDATA[<div class="block block_our_store">
+<div class="banner-top">
+<div class="banner-inner"><img class="img-responsive" alt="" src="{{media url="wysiwyg/alothemes/static/home8/banner5.jpg"}}" />
+<div class="text-banner banner-position">
+<div class="our-store">
+<h2>Cavada Store</h2>
+<p>No. 1504, South Thamtons highway, California City, United Stated.</p>
+<div class="separate">&nbsp;</div>
+<h3>Opening Hours</h3>
+<p>Monday to Friday : 8:00am - 9:00pm</p>
+<p>Saturday and Sunday : 8:00am - 13:00pm</p>
+</div>
+</div>
+</div>
+</div>
+</div>]]></content>
+      <is_active><![CDATA[1]]></is_active>
+    </cms_block>
+  </blocks>
+</root>

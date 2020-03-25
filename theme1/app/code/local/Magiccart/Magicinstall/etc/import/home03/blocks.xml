@@ -1,0 +1,200 @@
+<?xml version="1.0"?>
+<root>
+  <blocks>
+    <cms_block>
+      <title><![CDATA[newletter_social]]></title>
+      <identifier><![CDATA[newletter_social]]></identifier>
+      <content><![CDATA[<div class="social-link clearfix">
+	<a href="#" class="facebook" title="Facebook"><i class="fa fa-facebook"><span class="hidden">hidden</span></i></a>
+	<a href="#" class="twitter" title="Twitter"><i class="fa fa-twitter"><span class="hidden">hidden</span></i></a>
+	<a href="#" class="vimeo" title="vimeo"><i class="fa fa-vimeo-square"><span class="hidden">hidden</span></i></a>
+	<a href="#" class="google-plus" title="Google plus"><i class="fa fa-google-plus"><span class="hidden">hidden</span></i></a>
+	<a href="#" class="instagram" title="instagram"><i class="fa fa-instagram"><span class="hidden">hidden</span></i></a>
+	<a href="#" class="rss" title="Rss"><i class="fa fa-rss"><span class="hidden">hidden</span></i>
+	</a> 
+</div>]]></content>
+      <is_active><![CDATA[1]]></is_active>
+    </cms_block>
+    <cms_block>
+      <title><![CDATA[newletter_text]]></title>
+      <identifier><![CDATA[newletter_text]]></identifier>
+      <content><![CDATA[<div class="form-subscribe-header block-title">
+	<label>Sign up for newsletter</label>
+</div>
+<h2 class="promotions promotions1">Curabitur lacus turpis, auctor et ipsum a, finibus rutrum nibh,</h2>
+<h2 class="promotions promotions2">donec odio dolor, sollicitudin varius ultricies eget.</h2>]]></content>
+      <is_active><![CDATA[1]]></is_active>
+    </cms_block>
+    <cms_block>
+      <title><![CDATA[block_map_contacts]]></title>
+      <identifier><![CDATA[block_map_contacts]]></identifier>
+      <content><![CDATA[<div class="col-xs-12 col-sm-12 col-md-12">
+<div class="conttact-top clearfix">
+<div><iframe style="border: 0;" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2482.8277911385558!2d-0.13108129999999998!3d51.51637529999999!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48761b2d183f5ea3%3A0x8e1c5b00f1b16579!2zMTIgT3hmb3JkIFN0LCBTb2hvLCBMb25kb24gVzFELCBWxrDGoW5nIFF14buRYyBBbmg!5e0!3m2!1svi!2s!4v1434261501432" height="350" width="600"></iframe></div>
+<div class="map-conttact">
+    <h3 class="page-subheading">Information</h3>
+<div class="Information-text">
+	<p>Proin accumsan porta miac maximus. In dapibus mollis risus, nec mattis sem gravida at. Aliquam erat volutpat. Donec pellentes tristque. Vivamus semper non semor
+felis leo sodales tincidunt at ut lectus, aliquam malesuada urna vel sagittis ullamcorper. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy
+dolore magna aliquyam erat, sed diam voluptua. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet Nulla facilisi. Fusce luctus purus
+semper nulla tempus. Etiam ac hendrerit lacus, nec dapibus enim. </p>
+	<ul class="store_info">
+		<li class="add"><i class="fa fa-home"></i>Our business address is 1063 Freelon Street San Francisco, CA 95108</li>
+		<li><i class="fa fa-phone"></i><span class="name">Phone:</span><span>+ 021.343.7575</span></li>
+		<li><i class="fa fa-envelope"></i><span class="name">Email:</span> <span><a href="mailto:support@alothemes.com">support@alothemes.com</a></span></li>
+	</ul> 
+</div>
+</div>
+</div>	
+</div>]]></content>
+      <is_active><![CDATA[1]]></is_active>
+    </cms_block>
+    <cms_block>
+      <title><![CDATA[postcomments]]></title>
+      <identifier><![CDATA[postcomments]]></identifier>
+      <content><![CDATA[<div class="blog-postcomments">
+	<div class="blog_heading headding_one">
+		<h1>h1. Demo Heading One</h1>
+		<p>Proin accumsan porta miac maximus. In dapibus mollis risus, nec mattis sem gravida at. Aliquam erat volutpat. Donec pellentes tristique. Vivamus semper mi non semper vulputate. Aliquam vita
+	felis leo sodales tincidunt at ut lectus, aliquam malesuada urna vel sagittis ullamcorper. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt et
+	dolore magna aliquyam erat, sed diam voluptua. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</p>
+	<p>Aliquam erat volutpat. Donec pellentes tristique. Vivamus semper mi non semper vulputate. Aliquam vita Proin accumsan porta miac maximus. In dapibus mollis risus, nec mattis sem gravida at. 
+	felis leo sodales tincidunt at ut lectus, aliquam malesuada urna vel sagittis ullamcorper. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt et
+	dolore magna aliquyam erat, sed diam voluptua. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</p>
+	</div>
+	<div class="blog_heading headding_two">
+		<h2>h2. Demo Heading Two</h2>
+		<p>Proin accumsan porta miac maximus. In dapibus mollis risus, nec mattis sem gravida at. Aliquam erat volutpat. Donec pellentes tristique. Vivamus semper mi non semper vulputate. Aliquam vita
+	felis leo sodales tincidunt at ut lectus, aliquam malesuada urna vel sagittis ullamcorper. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt et
+	dolore magna aliquyam erat, sed diam voluptua. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet Nulla facilisi. Fusce luctus purus nec lorem mollis, eget
+	semper nulla tempus. Etiam ac hendrerit lacus, nec dapibus enim. Pellentesque eu urna vitae lectus congue convallis. Sed id molestie mi. Nunc vel facilisis nisl. Cras aliquam gravida dignissim.
+	Phasellus elementum ut urna et dignissim</p>
+	</div>
+	<div class="blog_heading headding_three">
+		<h3>h3. Demo Heading Three</h3>
+		<p>Aliquam erat volutpat. Donec pellentes tristique. Vivamus semper mi non semper vulputate. Aliquam vita Proin accumsan porta miac maximus. In dapibus mollis risus, nec mattis sem gravida at. 
+	felis leo sodales tincidunt at ut lectus, aliquam malesuada urna vel sagittis ullamcorper. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt et
+	dolore magna aliquyam erat, sed diam voluptua. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</p>
+	</div>
+	<div class="social-link clearfix">
+		<a href="#" class="facebook" title="Facebook"><i class="fa fa-facebook"><span class="hidden">hidden</span></i></a>
+		<a href="#" class="twitter" title="Twitter"><i class="fa fa-twitter"><span class="hidden">hidden</span></i></a>
+		<a href="#" class="google-plus" title="Google plus"><i class="fa fa-google-plus"><span class="hidden">hidden</span></i></a>
+		<a href="#" class="instagram" title="instagram"><i class="fa fa-instagram"><span class="hidden">hidden</span></i></a>
+		<a href="#" class="rss" title="Rss"><i class="fa fa-rss"><span class="hidden">hidden</span></i>
+		</a> 
+	</div>
+</div>]]></content>
+      <is_active><![CDATA[1]]></is_active>
+    </cms_block>
+    <cms_block>
+      <title><![CDATA[social]]></title>
+      <identifier><![CDATA[social]]></identifier>
+      <content><![CDATA[<div class="social-link clearfix">
+       <span class="toggle-tab mobile" style="display: none;"><i class="fa fa-futbol-o"><span class="hidden">hidden</span></i></span>
+       <div class="toggle-content">
+	<a href="#" class="facebook" title="Facebook"><i class="fa fa-facebook"><span class="hidden">hidden</span></i></a>
+	<a href="#" class="twitter" title="Twitter"><i class="fa fa-twitter"><span class="hidden">hidden</span></i></a>
+	<a href="#" class="google-plus" title="Google plus"><i class="fa fa-google-plus"><span class="hidden">hidden</span></i></a>
+	<a href="#" class="instagram" title="instagram"><i class="fa fa-instagram"><span class="hidden">hidden</span></i></a>
+	<a href="#" class="rss" title="Rss"><i class="fa fa-rss"><span class="hidden">hidden</span></i>
+	</a> 
+    </div>
+</div>]]></content>
+      <is_active><![CDATA[1]]></is_active>
+    </cms_block>
+    <cms_block>
+      <title><![CDATA[Slide Home Lingeries]]></title>
+      <identifier><![CDATA[slide]]></identifier>
+      <content><![CDATA[<div>{{widget type="magicslider/widget_slide" identifier="slide_3" template="magiccart/magicslider/magicslider.phtml"}}</div>]]></content>
+      <is_active><![CDATA[1]]></is_active>
+    </cms_block>
+    <cms_block>
+      <title><![CDATA[block_footer_bottom]]></title>
+      <identifier><![CDATA[block_footer_bottom]]></identifier>
+      <content><![CDATA[<div class="block-footer-bottom">
+    <div class="footer-inner">
+		<div class="container">
+			<div class="footer">
+				<div class="row">
+				    <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12 col-mobile-12 col-mobile1">
+						<div class="collapsible mobile-collapsible">
+							<h3 class="block-title heading">Contact Us</h3>
+							<span class="toggle-tab mobile" style="display: none;"><span class="hidden">hidden</span></span>
+							<div class="toggle-content">
+								<div class="block1 block-content-statick">
+								    <img class="img-responsive" src="{{media url="wysiwyg/alothemes/static/home03/map.png"}}" alt="" />
+									<ul class="address-list">
+										<li class="feature-icon first">
+											<div class="no-margin">
+											   <div class="column-left">
+												<span class="fa fa-map-marker"><span class="hidden">hidden</span></span>
+											   </div>
+											   <div class="column-right">
+												<span class="tit-name">Address:</span><span class="tit-contain">1504, South Thamtons highway, California, USA</span>
+											   </div>
+											</div>
+										</li>
+										<li class="feature-icon">
+											<p><span class="fa fa-phone"><span class="hidden">hidden</span></span><span class="tit-name">Phone:</span><span class="tit-contain">+001 222 456</span></p>
+										</li>
+										<li class="feature-icon">
+											<p><span class="fa fa-envelope"><span class="hidden">hidden</span></span><span class="tit-name">Email:</span><span class="tit-contain">support@alothemes.com</span></p>
+										</li>
+										<li class="feature-icon">
+											<p><span class="fa fa-clock-o"><span class="hidden">hidden</span></span><span class="tit-name">Working:</span><span class="tit-contain">8h30 - 20h30, everyday</span></p>
+										</li>
+									</ul>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="col-lg-3 col-md-3 col-sm-6 col-xs-12 col-mobile-12 col-mobile2">
+						<div class="collapsible mobile-collapsible">
+						<h3 class="block-title heading">Information</h3>
+						<span class="toggle-tab mobile" style="display: none;"><span class="hidden">hidden</span></span>
+							<div class="block-content block-content-statick toggle-content">
+								<ul class="bullet">
+									<li><a href="#">Personal info</a></li>
+									<li><a href="#">Return exchange</a></li>
+									<li><a href="#">Shipping guide</a></li>
+									<li><a href="#">Privacy policy</a></li>
+									<li><a href="#">Affliate</a></li>
+									<li><a href="#">Credits slips</a></li>
+								</ul>
+							</div>
+						</div>
+					</div>
+					<div class="col-lg-3 col-md-3 col-sm-6 col-xs-12 col-mobile-12 col-mobile3">
+						<div class="collapsible mobile-collapsible">
+							<h3 class="block-title heading">Tags</h3>
+							<span class="toggle-tab mobile" style="display: none;"><span class="hidden">hidden</span></span>
+							<div class="block-static block_newletter toggle-content">
+								{{block type="tag/popular" name="tags_popular" template="tag/popular.phtml"}}
+							</div>
+						</div>
+					</div>
+					<div class="col-lg-3 col-md-3 col-sm-6 col-xs-12 col-mobile-12 col-mobile4">
+						<div class="collapsible mobile-collapsible">
+							<h3 class="block-title heading">newsletter</h3>
+							<span class="toggle-tab mobile" style="display: none;"><span class="hidden">hidden</span></span>
+							<div class="block-static block_tags toggle-content">
+								{{block type="newsletter/subscribe" template="newsletter/subscribe.phtml"}}
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>]]></content>
+      <is_active><![CDATA[1]]></is_active>
+    </cms_block>
+    <cms_block>
+      <title><![CDATA[Banner Left Category]]></title>
+      <identifier><![CDATA[left-module-bottom]]></identifier>
+      <content><![CDATA[<div class="left-image"><img src="{{media url="wysiwyg/alothemes/static/home03/banner-left-category.jpg"}}" alt="" /></div>]]></content>
+      <is_active><![CDATA[1]]></is_active>
+    </cms_block>
+  </blocks>
+</root>
